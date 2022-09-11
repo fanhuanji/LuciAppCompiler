@@ -19,7 +19,7 @@ on:
         default: false
 
 env:
-  SDK_DLINK: https://downloads.openwrt.org/releases/21.02.3/targets/x86/64/openwrt-sdk-21.02.3-x86-64_gcc-8.4.0_musl.Linux-x86_64.tar.xz # 21.02.3 x86-64 SDK
+  SDK_DLINK: https://downloads.openwrt.org/releases/22.03.0/targets/x86/64/openwrt-sdk-22.03.0-x86-64_gcc-11.2.0_musl.Linux-x86_64.tar.xz
   ADD_SRC: addfeedsrc.sh
   APP_LST: apps.txt
   UPLOAD_BIN_DIR: false
